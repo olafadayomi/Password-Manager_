@@ -85,7 +85,7 @@ get_button = tk.Button(center_frame, text="Get Password", command=get_password, 
 get_button.grid(row=6, column=4, padx=10, pady=5)
 
 # Signature
-signature = "Developed by Ajayi Omolara"
+signature = "Developed by Oladapo Fadayomi_cyberSec class"
 signature_label = tk.Label(center_frame, text=signature, bg="#d3d3d3")
 signature_label.grid(row=7, column=1, padx=5, pady=5)
 
